@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="parser:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fdceec62-5c2f-489c-a6bb-265750098740" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../maven-project/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../maven-project/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../maven-project/src/test/java/com/epam/maven/RequestTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../maven-project/src/test/java/com/epam/maven/RequestTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../maven-project/src/test/resources/config.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../maven-project/src/test/resources/config.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../maven-project/target/surefire-reports/TEST-com.epam.maven.RequestTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../maven-project/target/surefire-reports/TEST-com.epam.maven.RequestTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../maven-project/target/surefire-reports/com.epam.maven.RequestTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../maven-project/target/surefire-reports/com.epam.maven.RequestTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../maven-project/target/test-classes/com/epam/maven/RequestTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../maven-project/target/test-classes/com/epam/maven/RequestTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../maven-project/target/test-classes/config.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../maven-project/target/test-classes/config.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/findbugsXml.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/findbugsXml.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/parser-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/parser-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-parser.ParserTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-parser.ParserTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/parser.ParserTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/parser.ParserTest.txt" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1UCD1hfbxDUiO2rTwhHwOXIIaI3" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.ParserTest">
+    <configuration name="ParserTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="parser" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="parser.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="parser" />
+      <option name="MAIN_CLASS_NAME" value="parser.ParserTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ParserTest.test_emptyParse" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="parser" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="parser.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="parser" />
+      <option name="MAIN_CLASS_NAME" value="parser.ParserTest" />
+      <option name="METHOD_NAME" value="test_emptyParse" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ParserTest.test_firstParse" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="parser" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="parser.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="parser" />
+      <option name="MAIN_CLASS_NAME" value="parser.ParserTest" />
+      <option name="METHOD_NAME" value="test_firstParse" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ParserTest.test_invalidParse" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="parser" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="parser.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="parser" />
+      <option name="MAIN_CLASS_NAME" value="parser.ParserTest" />
+      <option name="METHOD_NAME" value="test_invalidParse" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ParserTest" />
+        <item itemvalue="JUnit.ParserTest.test_invalidParse" />
+        <item itemvalue="JUnit.ParserTest.test_emptyParse" />
+        <item itemvalue="JUnit.ParserTest.test_firstParse" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fdceec62-5c2f-489c-a6bb-265750098740" name="Default Changelist" comment="" />
+      <created>1574851469791</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1574851469791</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
